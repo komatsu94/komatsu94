@@ -1,8 +1,8 @@
 ### OLÁ, MUNDOOO!! 
 <div align="center">
   <a href="https://github.com/komatsu94">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=komatsu94&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu94&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=komatsu94&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu94&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
 <div>
