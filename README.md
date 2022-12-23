@@ -1,16 +1,28 @@
-### Hi there 👋
+### OLÁ, MUNDOOO!! 
+<div align="center">
+  <a href="https://github.com/komatsu94">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=komatsu94&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu94&layout=compact&langs_count=7&theme=maroongold"/>
+</div>
 
-<!--
-**komatsu94/komatsu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+  Sejam muito bem vindos ao meu pequeno espaço que usarei para documentar meus aprendizados!!
+  
+  Tentarei me expressar em inglês para treinar, a meta é conseguir uma vaga no exterior! 🌍
+  
+  Espero que de alguma maneira, possa contribuir com outras pessoas 🤗
+  
+  Segue abaixo alguns fatos/ curiosidades sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📌 Atualmente, atuo como estagiário de Business Partner em TI pela Honda Brasil (Honda Serviços Financeiros)!
+  - 📜 Sou formado em Administração de Empresas e iniciei minha segunda graduação em Análise e Desenvolvimentos de Sistemas.
+  - 🚥 Em 2022, com meus 28 anos de idade, decidi dar um passo para trás e iniciar minha empreitada na área Tech.
+  - 💙 Nesta transição de carreira, com a oportunidade que tive de iniciar o estágio na Honda, descobri que sou apaixonado pela área de Produtos e Projetos.
+  - 🎉 Posso dizer que finalmente encontrei a minha área de atuação.
+  - ⚡ Meu filme preferido é Harry Potter e o Prisioneiro de Azkaban.
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/marcos-komatsu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
