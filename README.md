@@ -18,7 +18,7 @@
   - 📌 Atualmente, atuo como estagiário de Business Partner em TI pela Honda Brasil (Honda Serviços Financeiros)!
   - 📜 Sou formado em Administração de Empresas e iniciei minha segunda graduação em Análise e Desenvolvimentos de Sistemas.
   - 🚥 Em 2022, com meus 28 anos de idade, decidi dar um passo para trás e iniciar minha empreitada na área Tech.
-  - 💙 Nesta transição de carreira, com a oportunidade que tive de iniciar o estágio na Honda, descobri que sou apaixonado pela área de Produtos e Projetos.
+  - 💙 Nesta transição de carreira, com a oportunidade que tive de iniciar o estágio na Honda, descobri que sou apaixonado tanto pela área de Tecnologia quanto na área de Negócios! Sendo assim, pretendo crescer na área de Produtos e Projetos.
   - 🎉 Posso dizer que finalmente encontrei a minha área de atuação.
   - ⚡ Meu filme preferido é Harry Potter e o Prisioneiro de Azkaban.
 </div>
