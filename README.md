@@ -1,13 +1,13 @@
-### OLÁ, MUNDOOO!! 
+
 <div align="center">
   <a href="https://github.com/komatsu94">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=komatsu94&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu94&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
+### OLÁ, MUNDOOO!! 
 <div>
-
-  Sejam muito bem vindos ao meu pequeno espaço que usarei para documentar meus aprendizados!!
+    Sejam muito bem vindos ao meu pequeno espaço que usarei para documentar meus aprendizados!!
   
   Tentarei me expressar em inglês para treinar, a meta é conseguir uma vaga no exterior! 🌍
   
